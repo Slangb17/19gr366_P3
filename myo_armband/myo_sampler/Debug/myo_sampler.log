@@ -1,14 +1,11 @@
-﻿  myo_sampler.cpp
-C:\Users\egils\Desktop\myo_armband\dependencies\include\myo\cxx\detail\ThrowOnError.hpp(39,1): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
-C:\Users\egils\Desktop\myo_armband\dependencies\include\myo\cxx\detail\ThrowOnError.hpp(39,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
-C:\Users\egils\Desktop\myo_armband\dependencies\include\myo\cxx\detail\ThrowOnError.hpp(45,1): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
-C:\Users\egils\Desktop\myo_armband\dependencies\include\myo\cxx\detail\ThrowOnError.hpp(45,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
-C:\Users\egils\Desktop\myo_armband\myo_sampler\myo_sampler.cpp(224,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\egils\Desktop\myo_armband\myo_sampler\myo_sampler.cpp(225,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\egils\Desktop\myo_armband\myo_sampler\myo_sampler.cpp(228,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\egils\Desktop\myo_armband\myo_sampler\myo_sampler.cpp(229,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\egils\Desktop\myo_armband\myo_sampler\myo_sampler.cpp(174): warning C4700: uninitialized local variable 'average' used
-C:\Users\egils\Desktop\myo_armband\myo_sampler\myo_sampler.cpp(175): warning C4700: uninitialized local variable 'positive' used
-C:\Users\egils\Desktop\myo_armband\myo_sampler\myo_sampler.cpp(176): warning C4700: uninitialized local variable 'negative' used
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  myo_sampler.cpp
+C:\Users\egils\Desktop\myo_armband-master\dependencies\include\myo\cxx\detail\ThrowOnError.hpp(39,1): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+C:\Users\egils\Desktop\myo_armband-master\dependencies\include\myo\cxx\detail\ThrowOnError.hpp(39,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+C:\Users\egils\Desktop\myo_armband-master\dependencies\include\myo\cxx\detail\ThrowOnError.hpp(45,1): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  Generating Code...
+C:\Users\egils\Desktop\myo_armband-master\dependencies\include\myo\cxx\detail\ThrowOnError.hpp(45,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
   AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  myo_sampler.vcxproj -> C:\Users\egils\Desktop\myo_armband\Debug\myo_sampler.exe
+  myo_sampler.vcxproj -> C:\Users\egils\Desktop\myo_armband-master\Debug\myo_sampler.exe
